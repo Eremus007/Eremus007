@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eremus007
+- 👋 Hi, I’m @Eremus007 online, but you can call me Jeremy.
 - 👀 I’m interested in biology, biochemistry and informatics (with a little bit of gaming as a hobby)
 - 🌱 Just graduated from Hogeschool leiden with a BSc in Bioinformatics.
 - 📫 How to reach me: 
