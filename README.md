@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eremus007
 - 👀 I’m interested in biology, biochemistry and informatics (with a little bit of gaming as a hobby)
-- 🌱 I’m currently learning Bio-informatics at Hogeschool Leiden, following an internship at Naturalis Biodiversity center
+- 🌱 Just graduated from Hogeschool leiden with a BSc in Bioinformatics.
 - 📫 How to reach me: 
 - Linked-in: https://www.linkedin.com/in/jeremy-van-veen-152690232/
 - Email: jeremy.vanveen@hotmail.com
